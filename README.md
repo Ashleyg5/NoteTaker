@@ -24,7 +24,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Description
  
-This is challenge 11 of the bootcamp. I took given front end code for a notetaker app and coded the functionality into it. I utilized node.js and npm package express. When the user visits the deployed site, they will be met with the home screen for the notetaker. When the user clicks the button "get started" they are prompted to a page where they can input a note title and a note body. When the user wants to save the note, they will click the top right save button and the note will appear on the left side of the page. The user may view the note body by clicking on the note title. If the user wishes to delete the note, they will click on the red trash can on the right side of the note title nad it will disappear. 
+I took the front-end code for a notetaker app and coded the functionality into it. I utilized node.js and npm package express. When the user visits the deployed site, they will be met with the home screen for the notetaker. When the user clicks the "get started" button, they are prompted to a page where they can input a note title and a note body. When the user wants to save the note, they will click the top right save button and the note will appear on the left side of the page. The user may view the note body by clicking on the note title. If the user wishes to delete the note, they will click on the red trash can on the right side of the note title and it will disappear. 
 
 ## Usage
 [NoteTaker](https://shielded-bastion-45810.herokuapp.com/)
