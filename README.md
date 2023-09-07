@@ -27,7 +27,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 I took the front-end code for a notetaker app and coded the functionality into it. I utilized node.js and npm package express. When the user visits the deployed site, they will be met with the home screen for the notetaker. When the user clicks the "get started" button, they are prompted to a page where they can input a note title and a note body. When the user wants to save the note, they will click the top right save button and the note will appear on the left side of the page. The user may view the note body by clicking on the note title. If the user wishes to delete the note, they will click on the red trash can on the right side of the note title and it will disappear. 
 
 ## Usage
-[NoteTaker](https://shielded-bastion-45810.herokuapp.com/)
+[NoteTaker](https://notee-takerr-756680d1aaa5.herokuapp.com/)
  
 ![NoteTaker](https://i.gyazo.com/eb58a879ceddab8e559e855530c0af16.png)
 ![NoteTaker2](https://i.gyazo.com/4e5c5d0a1bcb025f647a04a2c210ae65.png)
